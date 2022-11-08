@@ -1,0 +1,9 @@
+* {
+    font-family: "COURIER NEW", Helvetica, sans-serif;
+}
+
+
+#cover-photo {
+    background: url("/public/images/beyonce-cover-page.jpg") no-repeat;
+    background-size: cover;
+}
